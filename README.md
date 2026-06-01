@@ -58,7 +58,7 @@ I'm a fresher with hands-on training in Python Full Stack Development, looking f
 |--------|-------------|-------|
 | [currency-converter](https://github.com/akashlimbore/currency-converter) | Real-time currency converter supporting all world currencies | HTML, JavaScript |
 | [student-record-management-system](https://github.com/akashlimbore/student-record-management-system) | A system to manage and track student academic records | JavaScript |
-
+| [todo-list-application](https://github.com/akashlimbore/todo-list-application) | A task management app with priority, categories and progress tracking | Python, Flask, JavaScript |
 ---
 
 ## GitHub Stats
