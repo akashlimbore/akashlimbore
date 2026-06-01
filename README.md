@@ -8,6 +8,7 @@ Python Full Stack Developer · Pune, Maharashtra
 [![GitHub](https://img.shields.io/badge/GitHub-akashlimbore-181717?style=flat-square&logo=github)](https://github.com/akashlimbore)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aakashlimbore)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash_Limbore-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-limbore-852241232)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akash%20Limbore-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-limbore-852241232)
 </div>
 
 ---
