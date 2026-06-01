@@ -61,27 +61,11 @@ I'm a fresher with hands-on training in Python Full Stack Development, looking f
 | [todo-list-application](https://github.com/akashlimbore/todo-list-application) | A task management app with priority, categories and progress tracking | Python, Flask, JavaScript |
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashlimbore&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashlimbore&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akashlimbore&theme=github-dark-blue&hide_border=true)
-
-</div>
 
 ---
 
-## GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=akashlimbore&theme=algolia&no-frame=true&margin-w=8&column=6)
-
-</div>
 
 ---
 
