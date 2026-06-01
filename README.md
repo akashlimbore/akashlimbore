@@ -8,23 +8,21 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akashlimbore90@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-akashlimbore-181717?style=flat-square&logo=github)](https://github.com/akashlimbore)
 
-</div>
-
 ---
 
-## About Me
+## 🙋 About Me
 
 I'm a fresher with hands-on training in Python Full Stack Development, looking for my first opportunity in the industry. I enjoy building practical, end-to-end applications — from designing REST APIs to crafting clean, responsive frontends.
 
-- 🎓 Completed **Python Full Stack** course at Kiran Academy (Apr 2026)
-- 🤖 Exploring **TensorFlow** and machine learning applications
-- 🌱 Currently building personal projects to strengthen my skills
-- 💼 Actively looking for **entry-level / fresher roles** in Python or Full Stack Development
-- 📍 Based in Pune, Maharashtra, India
+🎓 Completed **Python Full Stack** course at Kiran Academy (Apr 2026)
+🤖 Exploring **TensorFlow** and machine learning applications
+🌱 Currently building personal projects to strengthen my skills
+💼 Actively looking for **entry-level / fresher roles** in Python or Full Stack Development
+📍 Based in Pune, Maharashtra, India
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Backend**
 
@@ -50,15 +48,18 @@ I'm a fresher with hands-on training in Python Full Stack Development, looking f
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
+</div>
+
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [currency-converter](https://github.com/akashlimbore/currency-converter) | Real-time currency converter supporting all world currencies | HTML, JavaScript |
 | [student-record-management-system](https://github.com/akashlimbore/student-record-management-system) | A system to manage and track student academic records | JavaScript |
 | [todo-list-application](https://github.com/akashlimbore/todo-list-application) | A task management app with priority, categories and progress tracking | Python, Flask, JavaScript |
+
 ---
 
 <div align="center">
