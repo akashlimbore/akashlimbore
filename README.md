@@ -61,14 +61,6 @@ I'm a fresher with hands-on training in Python Full Stack Development, looking f
 | [todo-list-application](https://github.com/akashlimbore/todo-list-application) | A task management app with priority, categories and progress tracking | Python, Flask, JavaScript |
 ---
 
-
-
----
-
-
-
----
-
 <div align="center">
 
 *Fresh graduate, eager to learn and contribute.*
