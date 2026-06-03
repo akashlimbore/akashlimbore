@@ -42,4 +42,4 @@ Manages and tracks student academic records end-to-end. `JavaScript`
 Task manager with priority levels, categories, and progress tracking. `Python · Flask · JavaScript`
 
 **[Taluka Food Delivery Platform](https://github.com/akashlimbore/taluka-food-delivery-platform)**
-Advanced food delivery website for Taluka and semi-rural areas with customer ordering, restaurant panel, delivery partner panel, admin dashboard, OTP login, payments, live tracking, coupons, and multi-language support. `Next.js · Node.js · Express · PostgreSQL · Prisma`
+Food delivery platform for Taluka areas with restaurant, delivery, admin, OTP, payments, and tracking. `Next.js · Node.js · Express · PostgreSQL · Prisma`
