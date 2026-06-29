@@ -32,6 +32,9 @@ Looking for my first professional role — open to fresher positions, internship
 
 ## Projects
 
+**[Library Management System](https://github.com/akashlimbore/library-management-system)**  
+Full-stack library management web app with book issuing, member management, automatic fine calculation (₹2/day overdue), and a real-time dashboard. `Python · Django · SQLite · Bootstrap`
+
 **[Currency Converter](https://github.com/akashlimbore/currency-converter)**
 Real-time converter with support for all world currencies. `HTML · JavaScript`
 
