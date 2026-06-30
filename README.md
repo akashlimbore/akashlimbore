@@ -44,8 +44,5 @@ Real-time converter with support for all world currencies. `HTML · JavaScript`
 **[Student Record Management System](https://github.com/akashlimbore/student-record-management-system)**
 Manages and tracks student academic records end-to-end. `JavaScript`
 
-**[Todo List Application](https://github.com/akashlimbore/todo-list-application)**
-Task manager with priority levels, categories, and progress tracking. `Python · Flask · JavaScript`
-
 **[Taluka Food Delivery Platform](https://github.com/akashlimbore/taluka-food-delivery-platform)**
 Food delivery platform for Taluka areas with restaurant, delivery, admin, OTP, payments, and tracking. `Next.js · Node.js · Express · PostgreSQL · Prisma`
