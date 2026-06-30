@@ -32,6 +32,9 @@ Looking for my first professional role — open to fresher positions, internship
 
 ## Projects
 
+Parking Slot Booking System
+Full-stack parking management app with a visual slot map, vehicle check-in/check-out, and automatic time-based billing. Python · Django · SQLite
+
 **[Library Management System](https://github.com/akashlimbore/library-management-system)**  
 Full-stack library management web app with book issuing, member management, automatic fine calculation (₹2/day overdue), and a real-time dashboard. `Python · Django · SQLite · Bootstrap`
 
