@@ -41,8 +41,5 @@ Full-stack library management web app with book issuing, member management, auto
 **[Currency Converter](https://github.com/akashlimbore/currency-converter)**
 Real-time converter with support for all world currencies. `HTML · JavaScript`
 
-**[Student Record Management System](https://github.com/akashlimbore/student-record-management-system)**
-Manages and tracks student academic records end-to-end. `JavaScript`
-
 **[Taluka Food Delivery Platform](https://github.com/akashlimbore/taluka-food-delivery-platform)**
 Food delivery platform for Taluka areas with restaurant, delivery, admin, OTP, payments, and tracking. `Next.js · Node.js · Express · PostgreSQL · Prisma`
