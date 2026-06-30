@@ -18,6 +18,10 @@ Looking for my first professional role — open to fresher positions, internship
 
 ---
 
+## Live Project
+ 
+**[KaharJeevanSathi](https://www.kaharjeevansathi.com/)** — a matrimonial platform built with Next.js, TypeScript, and Tailwind CSS. Frontend is fully deployed and live; backend (Node.js/Express + PostgreSQL) is still in active development.
+
 ## Stack
 
 **Backend** — Python, Django, Flask, REST APIs, JWT
